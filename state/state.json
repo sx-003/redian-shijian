@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0.0",
+  "updated_at": "2026-11-22T07:23:44.377360+00:00",
+  "last_run": "2026-11-22T07:23:42+00:00",
+  "seen": [
+    {
+      "title": "特朗普：寻求与伊朗达成永久性协议",
+      "url": "https://wallstreetcn.com/livenews/3203713",
+      "platforms": [
+        "zhihu",
+        "douyin",
+        "cls",
+        "wallstreetcn",
+        "tencent"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376890+00:00"
+    },
+    {
+      "title": "特斯拉在美国推出FSD v15：安全关键场景处理能力提升25倍",
+      "url": "https://wallstreetcn.com/livenews/3203700",
+      "platforms": [
+        "baidu",
+        "wallstreetcn",
+        "ithome",
+        "aihot"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376907+00:00"
+    },
+    {
+      "title": "丘成桐回应AI辅助证明黎曼猜想",
+      "url": "https://wallstreetcn.com/livenews/3203710",
+      "platforms": [
+        "bilibili",
+        "wallstreetcn",
+        "ifeng",
+        "aihot"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376911+00:00"
+    },
+    {
+      "title": "中国石油天然气集团有限公司党组成员、副总经理谢军涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。（新华社）",
+      "url": "https://wallstreetcn.com/livenews/3203708",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "zaobao",
+        "thepaper"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376914+00:00"
+    },
+    {
+      "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问",
+      "url": "https://wallstreetcn.com/livenews/3203702",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "zaobao",
+        "thepaper"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376916+00:00"
+    },
+    {
+      "title": "Lean 与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2107620110105932525",
+      "platforms": [
+        "zhihu",
+        "bilibili",
+        "wallstreetcn",
+        "aihot"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376919+00:00"
+    },
+    {
+      "title": "日媒逐帧解析特朗普无视高市",
+      "url": "https://www.toutiao.com/trending/7709848449667661843/",
+      "platforms": [
+        "toutiao",
+        "weibo",
+        "baidu",
+        "ifeng"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376921+00:00"
+    },
+    {
+      "title": "【早报】英伟达据悉被SEC调查；多家品牌宣布：下调金饰克价",
+      "url": "https://www.cls.cn/detail/2540862",
+      "platforms": [
+        "cls",
+        "zaobao",
+        "thepaper"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376925+00:00"
+    },
+    {
+      "title": "韩国高考AI作弊事件发酵，教育部长引咎辞职",
+      "url": "https://wallstreetcn.com/livenews/3203709",
+      "platforms": [
+        "wallstreetcn",
+        "ithome",
+        "aihot"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376928+00:00"
+    },
+    {
+      "title": "荷兰法院裁定比亚迪 Ti7 抄袭路虎卫士，颁布销售禁令，对此怎么看？",
+      "url": "https://www.zhihu.com/question/2107417541236805904",
+      "platforms": [
+        "zhihu",
+        "weibo",
+        "baidu"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T07:23:44.376931+00:00"
+    }
+  ],
+  "source_failures": {},
+  "runs": [
+    {
+      "at": "2026-11-22T07:23:42+00:00",
+      "gap_minutes": -1
+    }
+  ]
+}
