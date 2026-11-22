@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-11-22T07:23:44.377360+00:00",
-  "last_run": "2026-11-22T07:23:42+00:00",
+  "updated_at": "2026-11-22T15:43:00.948418+00:00",
+  "last_run": "2026-11-22T15:42:58+00:00",
   "seen": [
     {
       "title": "特朗普：寻求与伊朗达成永久性协议",
@@ -120,6 +120,75 @@
       ],
       "status": "已推送",
       "at": "2026-11-22T07:23:44.376931+00:00"
+    },
+    {
+      "title": "沪深北交易所调整融资保证金比例",
+      "url": "https://wallstreetcn.com/livenews/3203736",
+      "platforms": [
+        "zhihu",
+        "cls",
+        "wallstreetcn",
+        "zaobao",
+        "thepaper"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T15:43:00.948006+00:00"
+    },
+    {
+      "title": "报道：AI服务器厂商涨价幅度最高达45%",
+      "url": "https://wallstreetcn.com/livenews/3203759",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "ithome",
+        "aihot"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T15:43:00.948025+00:00"
+    },
+    {
+      "title": "韩电再曝大规模数据泄露，152万人信息外泄",
+      "url": "https://wallstreetcn.com/livenews/3203749",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "ithome"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T15:43:00.948028+00:00"
+    },
+    {
+      "title": "美国总统特朗普：如果Chuck Schumer（舒默）出任参议院多数党领导人，我们将很难合作。",
+      "url": "https://wallstreetcn.com/livenews/3203762",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "fastbull"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T15:43:00.948031+00:00"
+    },
+    {
+      "title": "“稳股市”组合拳来了",
+      "url": "https://www.toutiao.com/trending/7710944285176106547/",
+      "platforms": [
+        "toutiao",
+        "tencent",
+        "thepaper"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T15:43:00.948033+00:00"
+    },
+    {
+      "title": "特朗普发APEC合照配文GOAT",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91APEC%E5%90%88%E7%85%A7%E9%85%8D%E6%96%87GOAT%23&t=31&band_rank=8&Refer=top",
+      "platforms": [
+        "toutiao",
+        "weibo",
+        "douyin"
+      ],
+      "status": "已推送",
+      "at": "2026-11-22T15:43:00.948035+00:00"
     }
   ],
   "source_failures": {},
@@ -127,6 +196,10 @@
     {
       "at": "2026-11-22T07:23:42+00:00",
       "gap_minutes": -1
+    },
+    {
+      "at": "2026-11-22T15:42:58+00:00",
+      "gap_minutes": 499.3
     }
   ]
 }
