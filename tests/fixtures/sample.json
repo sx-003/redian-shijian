@@ -1,0 +1,68 @@
+{
+  "sources": [
+    {
+      "source": "zhihu",
+      "platform": "zhihu",
+      "label": "知乎",
+      "updated_ms": 1794945316764,
+      "items": [
+        {"title": "特朗普启程亚洲行，准备参与 APEC 会议，称「可能与金正恩委员长会面」，哪些信息值得关注？",
+         "url": "https://www.zhihu.com/question/2105949199779086374", "heat": 3950000, "heat_text": "395 万热度"}
+      ]
+    },
+    {
+      "source": "toutiao",
+      "platform": "toutiao",
+      "label": "今日头条",
+      "updated_ms": 1794945316764,
+      "items": [
+        {"title": "特朗普戴红领带开启亚洲行", "url": "https://www.toutiao.com/trending/1/"}
+      ]
+    },
+    {
+      "source": "douyin",
+      "platform": "douyin",
+      "label": "抖音",
+      "updated_ms": 1794945316764,
+      "items": [
+        {"title": "特朗普启程亚洲行", "url": "https://www.douyin.com/hot/1"}
+      ]
+    },
+    {
+      "source": "cls-telegraph",
+      "platform": "cls",
+      "label": "财联社电报",
+      "updated_ms": 1794945316764,
+      "items": [
+        {"title": "俄罗斯总统普京抵达深圳", "url": "https://www.cls.cn/detail/1"}
+      ]
+    },
+    {
+      "source": "wallstreetcn",
+      "platform": "wallstreetcn",
+      "label": "华尔街见闻",
+      "updated_ms": 1794945316764,
+      "items": [
+        {"title": "俄罗斯总统普京抵达深圳，蔡奇前往机场迎接", "url": "https://wallstreetcn.com/livenews/1"}
+      ]
+    },
+    {
+      "source": "sputniknewscn",
+      "platform": "sputnik",
+      "label": "卫星通讯社",
+      "updated_ms": 1794945316764,
+      "items": [
+        {"title": "普京乘机抵达深圳", "url": "https://sputniknews.cn/1"}
+      ]
+    },
+    {
+      "source": "hackernews",
+      "platform": "hackernews",
+      "label": "英文源（应被中文规则挡掉）",
+      "updated_ms": 1794945316764,
+      "items": [
+        {"title": "Fed signals rate cut in December as inflation cools", "url": "https://news.ycombinator.com/1"}
+      ]
+    }
+  ]
+}
