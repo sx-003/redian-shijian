@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-11-22T21:20:06.027055+00:00",
-  "last_run": "2026-11-22T21:20:03+00:00",
+  "updated_at": "2026-11-23T02:01:33.150768+00:00",
+  "last_run": "2026-11-23T02:01:30+00:00",
   "seen": [
     {
       "title": "特朗普：寻求与伊朗达成永久性协议",
@@ -222,6 +222,61 @@
       ],
       "status": "已推送",
       "at": "2026-11-22T21:20:06.026731+00:00"
+    },
+    {
+      "title": "中国央行进行4,995亿元人民币隔夜逆回购操作，操作利率 1.25%。\n\n中国央行公开市场今日净投放1,200亿元人民币。",
+      "url": "https://wallstreetcn.com/livenews/3203838",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "fastbull"
+      ],
+      "status": "已推送",
+      "at": "2026-11-23T02:01:33.150551+00:00"
+    },
+    {
+      "title": "韩国青瓦台：企划财政部长官将于今日记者会上就股市平准基金作出说明。",
+      "url": "https://wallstreetcn.com/livenews/3203835",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "fastbull"
+      ],
+      "status": "已推送",
+      "at": "2026-11-23T02:01:33.150561+00:00"
+    },
+    {
+      "title": "商品期货开盘，液化气主力合约跌超6%，沪银跌超4%，燃料油、20号胶跌超3%。铝合金涨超1%。",
+      "url": "https://wallstreetcn.com/livenews/3203826",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "fastbull"
+      ],
+      "status": "已推送",
+      "at": "2026-11-23T02:01:33.150563+00:00"
+    },
+    {
+      "title": "中国第二艘国产大型邮轮首航",
+      "url": "https://www.zaochenbao.com/news/china/202611/2286002.html",
+      "platforms": [
+        "cls",
+        "zaobao",
+        "ithome"
+      ],
+      "status": "已推送",
+      "at": "2026-11-23T02:01:33.150564+00:00"
+    },
+    {
+      "title": "Claude黎曼猜想证明被指抄袭",
+      "url": "https://search.bilibili.com/all?keyword=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD",
+      "platforms": [
+        "bilibili",
+        "cls",
+        "aihot"
+      ],
+      "status": "已推送",
+      "at": "2026-11-23T02:01:33.150565+00:00"
     }
   ],
   "source_failures": {},
@@ -237,6 +292,10 @@
     {
       "at": "2026-11-22T21:20:03+00:00",
       "gap_minutes": 337.1
+    },
+    {
+      "at": "2026-11-23T02:01:30+00:00",
+      "gap_minutes": 281.4
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-22T21:20:03+00:00",
+  "started_at": "2026-11-23T02:01:30+00:00",
   "mode": "send",
-  "gap_minutes": 337.1,
+  "gap_minutes": 281.4,
   "window_hours": 12,
   "min_platforms": 3,
   "sim_threshold": 0.4,
@@ -14,8 +14,8 @@
       "status": "ok",
       "error": "",
       "count": 20,
-      "updated_ms": 1795380747601,
-      "duration_ms": 640
+      "updated_ms": 1795398176969,
+      "duration_ms": 412
     },
     {
       "name": "toutiao",
@@ -25,8 +25,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795381745693,
-      "duration_ms": 554
+      "updated_ms": 1795397882722,
+      "duration_ms": 411
     },
     {
       "name": "weibo",
@@ -36,8 +36,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795381653350,
-      "duration_ms": 556
+      "updated_ms": 1795398680389,
+      "duration_ms": 477
     },
     {
       "name": "douyin",
@@ -47,8 +47,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795380750550,
-      "duration_ms": 548
+      "updated_ms": 1795397787411,
+      "duration_ms": 471
     },
     {
       "name": "baidu",
@@ -58,8 +58,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795381629739,
-      "duration_ms": 571
+      "updated_ms": 1795398267977,
+      "duration_ms": 496
     },
     {
       "name": "bilibili-hot-search",
@@ -69,8 +69,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795380898144,
-      "duration_ms": 534
+      "updated_ms": 1795398157246,
+      "duration_ms": 478
     },
     {
       "name": "cls-telegraph",
@@ -80,8 +80,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795381879266,
-      "duration_ms": 454
+      "updated_ms": 1795398086024,
+      "duration_ms": 414
     },
     {
       "name": "cls-hot",
@@ -91,8 +91,8 @@
       "status": "ok",
       "error": "",
       "count": 13,
-      "updated_ms": 1795380734063,
-      "duration_ms": 333
+      "updated_ms": 1795398268276,
+      "duration_ms": 393
     },
     {
       "name": "cls-depth",
@@ -101,9 +101,9 @@
       "ok": true,
       "status": "ok",
       "error": "",
-      "count": 29,
-      "updated_ms": 1795380641116,
-      "duration_ms": 345
+      "count": 30,
+      "updated_ms": 1795398268274,
+      "duration_ms": 443
     },
     {
       "name": "wallstreetcn",
@@ -113,8 +113,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795382031372,
-      "duration_ms": 348
+      "updated_ms": 1795398315038,
+      "duration_ms": 384
     },
     {
       "name": "wallstreetcn-hot",
@@ -124,8 +124,8 @@
       "status": "ok",
       "error": "",
       "count": 10,
-      "updated_ms": 1795382404444,
-      "duration_ms": 340
+      "updated_ms": 1795399291419,
+      "duration_ms": 380
     },
     {
       "name": "wallstreetcn-quick",
@@ -135,8 +135,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795381887714,
-      "duration_ms": 391
+      "updated_ms": 1795398973890,
+      "duration_ms": 369
     },
     {
       "name": "tencent-hot",
@@ -146,8 +146,8 @@
       "status": "ok",
       "error": "",
       "count": 15,
-      "updated_ms": 1795382404753,
-      "duration_ms": 334
+      "updated_ms": 1795399291735,
+      "duration_ms": 378
     },
     {
       "name": "zaobao",
@@ -157,8 +157,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795382404776,
-      "duration_ms": 380
+      "updated_ms": 1795399291704,
+      "duration_ms": 292
     },
     {
       "name": "sputniknewscn",
@@ -168,8 +168,8 @@
       "status": "ok",
       "error": "",
       "count": 20,
-      "updated_ms": 1795382404784,
-      "duration_ms": 342
+      "updated_ms": 1795398136656,
+      "duration_ms": 388
     },
     {
       "name": "fastbull-express",
@@ -179,8 +179,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795381487571,
-      "duration_ms": 345
+      "updated_ms": 1795398268108,
+      "duration_ms": 396
     },
     {
       "name": "fastbull-news",
@@ -190,8 +190,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795382404842,
-      "duration_ms": 323
+      "updated_ms": 1795399291813,
+      "duration_ms": 414
     },
     {
       "name": "thepaper",
@@ -201,8 +201,8 @@
       "status": "ok",
       "error": "",
       "count": 20,
-      "updated_ms": 1795382404870,
-      "duration_ms": 309
+      "updated_ms": 1795399291834,
+      "duration_ms": 389
     },
     {
       "name": "ifeng",
@@ -212,8 +212,8 @@
       "status": "ok",
       "error": "",
       "count": 12,
-      "updated_ms": 1795382405123,
-      "duration_ms": 409
+      "updated_ms": 1795398267566,
+      "duration_ms": 380
     },
     {
       "name": "ithome",
@@ -223,8 +223,8 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795380730824,
-      "duration_ms": 351
+      "updated_ms": 1795399292105,
+      "duration_ms": 359
     },
     {
       "name": "aihot",
@@ -234,186 +234,319 @@
       "status": "ok",
       "error": "",
       "count": 30,
-      "updated_ms": 1795381267440,
-      "duration_ms": 394
+      "updated_ms": 1795398045622,
+      "duration_ms": 425
     }
   ],
   "source_failures": {},
-  "items_total": 529,
+  "items_total": 530,
   "stats": {
-    "total": 529,
-    "not_chinese": 0,
+    "total": 530,
+    "not_chinese": 2,
     "too_short": 3,
-    "stale": 53,
-    "duplicated": 0,
-    "market_quote": 1,
-    "non_news": 18,
-    "prepared": 454,
-    "clusters": 364,
-    "hot_events": 9,
-    "near_events": 24
+    "stale": 41,
+    "duplicated": 4,
+    "market_quote": 14,
+    "non_news": 17,
+    "prepared": 449,
+    "clusters": 356,
+    "hot_events": 7,
+    "near_events": 34
   },
-  "clusters_hot": 9,
-  "skipped_seen": 6,
+  "clusters_hot": 7,
+  "skipped_seen": 2,
   "selected": [
     {
-      "title": "胡塞武装：打击沙特西部炼油厂",
-      "url": "https://sputniknews.cn/20261123/1074300600.html",
+      "title": "中国央行进行4,995亿元人民币隔夜逆回购操作，操作利率 1.25%。\n\n中国央行公开市场今日净投放1,200亿元人民币。",
+      "url": "https://wallstreetcn.com/livenews/3203838",
       "platforms": [
         "cls",
-        "sputnik",
+        "wallstreetcn",
         "fastbull"
       ],
-      "source_count": 3,
-      "item_count": 4,
-      "event_ms": 1795378564000,
+      "source_count": 4,
+      "item_count": 5,
+      "event_ms": 1795397078318,
       "top_heat": null,
-      "anchor": "袭击了沙特阿拉伯",
+      "anchor": "亿元隔夜逆回购操作",
+      "score": 35.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "财联社11月23日电，央行今日开展了4995亿元隔夜逆回购操作，全额满足了一级交易商需求。",
+          "url": "https://www.cls.cn/detail/2541182",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795397004000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "中国央行进行4,995亿元人民币隔夜逆回购操作，操作利率 1.25%。\n\n中国央行公开市场今日净投放1,200亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3203838",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396997000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "中国央行进行4,995亿元人民币隔夜逆回购操作，操作利率 1.25%。\n\n中国央行公开市场今日净投放1,200亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3203838",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396997000,
+          "updated_ms": 1795398973890
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "中国央行今日开展4995亿元隔夜逆回购操作，因今日有3795亿元隔夜逆回购到期，当日实现净投放1200亿元人民币。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361915_212_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795397078318,
+          "updated_ms": 1795398268108
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "中国央行：2026年11月23日中国人民银行以固定利率、数量招标方式开展了4995亿元隔夜逆回购操作，全额满足了一级交易商需求。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361914_1_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396953824,
+          "updated_ms": 1795398268108
+        }
+      ]
+    },
+    {
+      "title": "韩国青瓦台：企划财政部长官将于今日记者会上就股市平准基金作出说明。",
+      "url": "https://wallstreetcn.com/livenews/3203835",
+      "platforms": [
+        "cls",
+        "wallstreetcn",
+        "fastbull"
+      ],
+      "source_count": 4,
+      "item_count": 4,
+      "event_ms": 1795396672000,
+      "top_heat": null,
+      "anchor": "的新闻发布会上",
       "score": 34.0,
       "appearances": [
         {
           "source": "cls-telegraph",
           "label": "财联社电报",
           "platform": "cls",
-          "title": "财联社11月23日电，也门胡塞武装称袭击了沙特阿拉伯红海西岸的拉比格炼油厂。",
-          "url": "https://www.cls.cn/detail/2541050",
+          "title": "财联社11月23日电，韩国财政部长将在今日的新闻发布会上解释股市稳定基金。",
+          "url": "https://www.cls.cn/detail/2541173",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795365485000,
-          "updated_ms": 1795381879266
+          "published_ms": 1795396368000,
+          "updated_ms": 1795398086024
         },
         {
-          "source": "sputniknewscn",
-          "label": "卫星通讯社",
-          "platform": "sputnik",
-          "title": "胡塞武装：打击沙特西部炼油厂",
-          "url": "https://sputniknews.cn/20261123/1074300600.html",
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "韩国青瓦台：企划财政部长官将于今日记者会上就股市平准基金作出说明。",
+          "url": "https://wallstreetcn.com/livenews/3203835",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795378564000,
-          "updated_ms": 1795382404784
+          "published_ms": 1795396672000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "韩国青瓦台：企划财政部长官将于今日记者会上就股市平准基金作出说明。",
+          "url": "https://wallstreetcn.com/livenews/3203835",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396672000,
+          "updated_ms": 1795398973890
         },
         {
           "source": "fastbull-express",
           "label": "法布财经快讯",
           "platform": "fastbull",
-          "title": "胡塞武装军事发言人：袭击了沙特阿拉伯杜瓦塞尔地区的雷达站。",
-          "url": "https://www.fastbull.com/cn/fastshort/4361783_212_1",
+          "title": "韩国青瓦台：财长将在今天的新闻发布会上就股市稳定基金作出说明。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361901_1_1",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795366003122,
-          "updated_ms": 1795381487571
-        },
-        {
-          "source": "fastbull-express",
-          "label": "法布财经快讯",
-          "platform": "fastbull",
-          "title": "也门胡塞武装：袭击了沙特阿拉伯红海西海岸的拉比格炼油厂。",
-          "url": "https://www.fastbull.com/cn/fastshort/4361779_212_1",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": 1795365421077,
-          "updated_ms": 1795381487571
+          "published_ms": 1795396229089,
+          "updated_ms": 1795398268108
         }
       ]
     },
     {
-      "title": "主播糟蹋千斤苹果仅赔6000元",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C%E4%BB%85%E8%B5%946000%E5%85%83%23&t=31&band_rank=11&Refer=top",
-      "platforms": [
-        "toutiao",
-        "weibo",
-        "bilibili"
-      ],
-      "source_count": 3,
-      "item_count": 3,
-      "event_ms": 1795381745693,
-      "top_heat": null,
-      "anchor": "糟蹋千斤苹果仅",
-      "score": 33.0,
-      "appearances": [
-        {
-          "source": "toutiao",
-          "label": "今日头条",
-          "platform": "toutiao",
-          "title": "主播私闯果园糟蹋千斤苹果仅愿赔6千元",
-          "url": "https://www.toutiao.com/trending/7710858139138556425/",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381745693
-        },
-        {
-          "source": "weibo",
-          "label": "微博",
-          "platform": "weibo",
-          "title": "主播糟蹋千斤苹果仅赔6000元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C%E4%BB%85%E8%B5%946000%E5%85%83%23&t=31&band_rank=11&Refer=top",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381653350
-        },
-        {
-          "source": "bilibili-hot-search",
-          "label": "B站热搜",
-          "platform": "bilibili",
-          "title": "主播糟蹋千斤苹果仅赔6000元",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BB%E6%92%AD%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C%E4%BB%85%E8%B5%946000%E5%85%83",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795380898144
-        }
-      ]
-    },
-    {
-      "title": "媒体：特朗普表示准备在新年后恢复对伊朗的打击",
-      "url": "https://sputniknews.cn/20261123/1074300792.html",
+      "title": "商品期货开盘，液化气主力合约跌超6%，沪银跌超4%，燃料油、20号胶跌超3%。铝合金涨超1%。",
+      "url": "https://wallstreetcn.com/livenews/3203826",
       "platforms": [
         "cls",
-        "sputnik",
+        "wallstreetcn",
         "fastbull"
+      ],
+      "source_count": 4,
+      "item_count": 4,
+      "event_ms": 1795395667198,
+      "top_heat": null,
+      "anchor": "商品期货",
+      "score": 34.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "国内商品期货多数下跌 液化气跌超6%",
+          "url": "https://www.cls.cn/detail/2541159",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395643000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "商品期货开盘，液化气主力合约跌超6%，沪银跌超4%，燃料油、20号胶跌超3%。铝合金涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3203826",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395612000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "商品期货开盘，液化气主力合约跌超6%，沪银跌超4%，燃料油、20号胶跌超3%。铝合金涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3203826",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395612000,
+          "updated_ms": 1795398973890
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "国内商品期货多数下跌，液化气跌超6%，沪银、燃料油跌超4%，苯乙烯跌超3%，纯苯、工业硅跌超2%。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361884_204_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395667198,
+          "updated_ms": 1795398268108
+        }
+      ]
+    },
+    {
+      "title": "中国第二艘国产大型邮轮首航",
+      "url": "https://www.zaochenbao.com/news/china/202611/2286002.html",
+      "platforms": [
+        "cls",
+        "zaobao",
+        "ithome"
       ],
       "source_count": 3,
       "item_count": 3,
-      "event_ms": 1795379938000,
+      "event_ms": 1795399292105,
       "top_heat": null,
-      "anchor": "特朗普表示",
+      "anchor": "国产大型邮轮",
       "score": 33.0,
       "appearances": [
         {
           "source": "cls-telegraph",
           "label": "财联社电报",
           "platform": "cls",
-          "title": "财联社11月23日电，特朗普表示，如果新年后仍未达成协议，倾向于对伊朗发动打击。",
-          "url": "https://www.cls.cn/detail/2541060",
+          "title": "国产大型邮轮“爱达·花城号”首航抵达香港",
+          "url": "https://www.cls.cn/detail/2541176",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795368875000,
-          "updated_ms": 1795381879266
+          "published_ms": 1795396679000,
+          "updated_ms": 1795398086024
         },
         {
-          "source": "sputniknewscn",
-          "label": "卫星通讯社",
-          "platform": "sputnik",
-          "title": "媒体：特朗普表示准备在新年后恢复对伊朗的打击",
-          "url": "https://sputniknews.cn/20261123/1074300792.html",
+          "source": "zaobao",
+          "label": "联合早报",
+          "platform": "zaobao",
+          "title": "中国第二艘国产大型邮轮首航",
+          "url": "https://www.zaochenbao.com/news/china/202611/2286002.html",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795379938000,
-          "updated_ms": 1795382404784
+          "published_ms": null,
+          "updated_ms": 1795399291704
         },
         {
-          "source": "fastbull-express",
-          "label": "法布财经快讯",
-          "platform": "fastbull",
-          "title": "美国总统特朗普：若未能达成协议，倾向于在新年后对伊朗发动打击。",
-          "url": "https://www.fastbull.com/cn/fastshort/4361794_212_1",
+          "source": "ithome",
+          "label": "IT之家",
+          "platform": "ithome",
+          "title": "我国第二艘国产大型邮轮“爱达 · 花城号”首航抵达香港",
+          "url": "https://www.ithome.com/1/030/740.htm",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795368687514,
-          "updated_ms": 1795381487571
+          "published_ms": null,
+          "updated_ms": 1795399292105
+        }
+      ]
+    },
+    {
+      "title": "Claude黎曼猜想证明被指抄袭",
+      "url": "https://search.bilibili.com/all?keyword=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD",
+      "platforms": [
+        "bilibili",
+        "cls",
+        "aihot"
+      ],
+      "source_count": 3,
+      "item_count": 3,
+      "event_ms": 1795398268276,
+      "top_heat": null,
+      "anchor": "黎曼猜想证明",
+      "score": 33.0,
+      "appearances": [
+        {
+          "source": "bilibili-hot-search",
+          "label": "B站热搜",
+          "platform": "bilibili",
+          "title": "Claude黎曼猜想证明被指抄袭",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398157246
+        },
+        {
+          "source": "cls-hot",
+          "label": "财联社热榜",
+          "platform": "cls",
+          "title": "黎曼猜想“证明”，预测市场怎么看？",
+          "url": "https://www.cls.cn/detail/2540822",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398268276
+        },
+        {
+          "source": "aihot",
+          "label": "AIHOT",
+          "platform": "aihot",
+          "title": "Gary Marcus 评 Levent Alpöge 借助 Claude 证明黎曼猜想：不是 AI 独立完成，也难以泛化",
+          "url": "https://aihot.news/items/se6kyzulklfw7rruyo86r3c46",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398045622
         }
       ]
     }
@@ -424,12 +557,12 @@
       "url": "https://www.zhihu.com/question/2107848989819326753",
       "platforms": [
         "zhihu",
-        "baidu"
+        "thepaper"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795381629739,
-      "top_heat": 3810000,
+      "event_ms": 1795399291834,
+      "top_heat": 8420000,
       "anchor": "从香港游到澳门",
       "score": 22.0,
       "appearances": [
@@ -439,21 +572,59 @@
           "platform": "zhihu",
           "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
           "url": "https://www.zhihu.com/question/2107848989819326753",
-          "heat": 3810000,
-          "heat_text": "381 万热度",
+          "heat": 8420000,
+          "heat_text": "842 万热度",
           "published_ms": null,
-          "updated_ms": 1795380747601
+          "updated_ms": 1795398176969
+        },
+        {
+          "source": "thepaper",
+          "label": "澎湃新闻",
+          "platform": "thepaper",
+          "title": "香港艺人方力申刷新吉尼斯世界纪录，8小时半从香港游到澳门",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34534313",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795399291834
+        }
+      ]
+    },
+    {
+      "title": "主播私闯果园直播带货糟蹋近 200 斤苹果，官方通报其系误入，相关损失应如何认定和赔偿？",
+      "url": "https://www.zhihu.com/question/2107832519722791972",
+      "platforms": [
+        "zhihu",
+        "baidu"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795398267977,
+      "top_heat": 2780000,
+      "anchor": "苹果官方通报",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "zhihu",
+          "label": "知乎",
+          "platform": "zhihu",
+          "title": "主播私闯果园直播带货糟蹋近 200 斤苹果，官方通报其系误入，相关损失应如何认定和赔偿？",
+          "url": "https://www.zhihu.com/question/2107832519722791972",
+          "heat": 2780000,
+          "heat_text": "278 万热度",
+          "published_ms": null,
+          "updated_ms": 1795398176969
         },
         {
           "source": "baidu",
           "label": "百度热搜",
           "platform": "baidu",
-          "title": "方力申回应从香港游到澳门",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B9%E5%8A%9B%E7%94%B3%E5%9B%9E%E5%BA%94%E4%BB%8E%E9%A6%99%E6%B8%AF%E6%B8%B8%E5%88%B0%E6%BE%B3%E9%97%A8",
+          "title": "主播被指私闯果园糟蹋苹果 官方通报",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8C%87%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E8%8B%B9%E6%9E%9C+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381629739
+          "updated_ms": 1795398267977
         }
       ]
     },
@@ -466,8 +637,8 @@
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795381745693,
-      "top_heat": 1680000,
+      "event_ms": 1795398176969,
+      "top_heat": 1520000,
       "anchor": "日媒逐帧解析",
       "score": 22.0,
       "appearances": [
@@ -477,10 +648,10 @@
           "platform": "zhihu",
           "title": "日媒逐帧解析高市早苗遭特朗普无视，直呼耻辱，为何日本对此如此破防？反映了日本舆论对日美互动怎样的心态？",
           "url": "https://www.zhihu.com/question/2107806853543322888",
-          "heat": 1680000,
-          "heat_text": "168 万热度",
+          "heat": 1520000,
+          "heat_text": "152 万热度",
           "published_ms": null,
-          "updated_ms": 1795380747601
+          "updated_ms": 1795398176969
         },
         {
           "source": "toutiao",
@@ -491,159 +662,159 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381745693
+          "updated_ms": 1795397882722
         }
       ]
     },
     {
-      "title": "去世到安葬不超24小时？山东一地回应",
-      "url": "https://www.toutiao.com/trending/7710967769189060106/",
+      "title": "金店老板囤一吨白银直接亏超1000万",
+      "url": "https://www.toutiao.com/trending/7710607908530061851/",
       "platforms": [
         "toutiao",
         "baidu"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795381745693,
+      "event_ms": 1795398267977,
       "top_heat": null,
-      "anchor": "去世到安葬不超小时",
+      "anchor": "金店老板囤一吨白银直接亏超万",
       "score": 22.0,
       "appearances": [
         {
           "source": "toutiao",
           "label": "今日头条",
           "platform": "toutiao",
-          "title": "去世到安葬不超24小时？山东一地回应",
-          "url": "https://www.toutiao.com/trending/7710967769189060106/",
+          "title": "金店老板囤一吨白银直接亏超1000万",
+          "url": "https://www.toutiao.com/trending/7710607908530061851/",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381745693
+          "updated_ms": 1795397882722
         },
         {
           "source": "baidu",
           "label": "百度热搜",
           "platform": "baidu",
-          "title": "村委会回应“去世到安葬不超24小时”",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%91%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8E%BB%E4%B8%96%E5%88%B0%E5%AE%89%E8%91%AC%E4%B8%8D%E8%B6%8524%E5%B0%8F%E6%97%B6%E2%80%9D",
+          "title": "金店老板囤一吨白银直接亏超1000万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E5%9B%A4%E4%B8%80%E5%90%A8%E7%99%BD%E9%93%B6%E7%9B%B4%E6%8E%A5%E4%BA%8F%E8%B6%851000%E4%B8%87",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381629739
+          "updated_ms": 1795398267977
         }
       ]
     },
     {
-      "title": "古代从南京跑到北京十五天够用吗",
-      "url": "https://www.toutiao.com/trending/7710989817928204326/",
+      "title": "女博士卧底6个月当主播仍有心理阴影",
+      "url": "https://www.toutiao.com/trending/7710728383290376730/",
       "platforms": [
         "toutiao",
         "baidu"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795381745693,
+      "event_ms": 1795398267977,
       "top_heat": null,
-      "anchor": "古代从南京跑到北京十五天够用吗",
+      "anchor": "女博士卧底个月当主播仍有心理阴影",
       "score": 22.0,
       "appearances": [
         {
           "source": "toutiao",
           "label": "今日头条",
           "platform": "toutiao",
-          "title": "古代从南京跑到北京十五天够用吗",
-          "url": "https://www.toutiao.com/trending/7710989817928204326/",
+          "title": "女博士卧底6个月当主播仍有心理阴影",
+          "url": "https://www.toutiao.com/trending/7710728383290376730/",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381745693
+          "updated_ms": 1795397882722
         },
         {
           "source": "baidu",
           "label": "百度热搜",
           "platform": "baidu",
-          "title": "古代从南京跑到北京十五天够用吗",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E4%BB%A3%E4%BB%8E%E5%8D%97%E4%BA%AC%E8%B7%91%E5%88%B0%E5%8C%97%E4%BA%AC%E5%8D%81%E4%BA%94%E5%A4%A9%E5%A4%9F%E7%94%A8%E5%90%97",
+          "title": "女博士卧底6个月当主播仍有心理阴影",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%956%E4%B8%AA%E6%9C%88%E5%BD%93%E4%B8%BB%E6%92%AD%E4%BB%8D%E6%9C%89%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381629739
+          "updated_ms": 1795398267977
         }
       ]
     },
     {
-      "title": "亚洲市场集体打响保卫战",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98%23&t=31&band_rank=27&Refer=top",
+      "title": "樊振东1比3约内斯库",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93&t=31&band_rank=17&Refer=top",
       "platforms": [
         "weibo",
-        "baidu"
+        "bilibili"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795381653350,
+      "event_ms": 1795398680389,
       "top_heat": null,
-      "anchor": "亚洲市场集体打响保卫战",
+      "anchor": "约内斯库",
       "score": 22.0,
       "appearances": [
         {
           "source": "weibo",
           "label": "微博",
           "platform": "weibo",
-          "title": "亚洲市场集体打响保卫战",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98%23&t=31&band_rank=27&Refer=top",
+          "title": "樊振东1比3约内斯库",
+          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93&t=31&band_rank=17&Refer=top",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381653350
+          "updated_ms": 1795398680389
+        },
+        {
+          "source": "bilibili-hot-search",
+          "label": "B站热搜",
+          "platform": "bilibili",
+          "title": "樊振东1-3约内斯库",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A8%8A%E6%8C%AF%E4%B8%9C1-3%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398157246
+        }
+      ]
+    },
+    {
+      "title": "特朗普发APEC合照配文GOAT",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91APEC%E5%90%88%E7%85%A7%E9%85%8D%E6%96%87GOAT%23&t=31&band_rank=27&Refer=top",
+      "platforms": [
+        "weibo",
+        "baidu"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795398680389,
+      "top_heat": null,
+      "anchor": "特朗普发合照配文",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "weibo",
+          "label": "微博",
+          "platform": "weibo",
+          "title": "特朗普发APEC合照配文GOAT",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91APEC%E5%90%88%E7%85%A7%E9%85%8D%E6%96%87GOAT%23&t=31&band_rank=27&Refer=top",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398680389
         },
         {
           "source": "baidu",
           "label": "百度热搜",
           "platform": "baidu",
-          "title": "亚洲市场集体打响保卫战",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98",
+          "title": "特朗普发APEC合照配文GOAT",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91APEC%E5%90%88%E7%85%A7%E9%85%8D%E6%96%87GOAT",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381629739
-        }
-      ]
-    },
-    {
-      "title": "特朗普称将与伊朗达成永久性协议",
-      "url": "https://www.douyin.com/hot/2758174",
-      "platforms": [
-        "douyin",
-        "cls"
-      ],
-      "source_count": 2,
-      "item_count": 2,
-      "event_ms": 1795380750550,
-      "top_heat": null,
-      "anchor": "达成永久性协议",
-      "score": 22.0,
-      "appearances": [
-        {
-          "source": "douyin",
-          "label": "抖音",
-          "platform": "douyin",
-          "title": "特朗普称将与伊朗达成永久性协议",
-          "url": "https://www.douyin.com/hot/2758174",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795380750550
-        },
-        {
-          "source": "cls-hot",
-          "label": "财联社热榜",
-          "platform": "cls",
-          "title": "美伊局势追踪：特朗普称寻求达成永久性协议 霍尔木兹触雷事故不断",
-          "url": "https://www.cls.cn/detail/2540868",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795380734063
+          "updated_ms": 1795398267977
         }
       ]
     },
@@ -651,26 +822,26 @@
       "title": "一些日媒盼着高市早苗被羞辱",
       "url": "https://news.ifeng.com/c/8yGRie2tTlj",
       "platforms": [
-        "baidu",
+        "douyin",
         "ifeng"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795382405123,
+      "event_ms": 1795398267566,
       "top_heat": null,
-      "anchor": "一些日媒盼着高市",
+      "anchor": "高市早苗被羞辱",
       "score": 22.0,
       "appearances": [
         {
-          "source": "baidu",
-          "label": "百度热搜",
-          "platform": "baidu",
-          "title": "环球时报：一些日媒盼着高市被羞辱",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E4%B8%80%E4%BA%9B%E6%97%A5%E5%AA%92%E7%9B%BC%E7%9D%80%E9%AB%98%E5%B8%82%E8%A2%AB%E7%BE%9E%E8%BE%B1",
+          "source": "douyin",
+          "label": "抖音",
+          "platform": "douyin",
+          "title": "环球时报评日媒盼高市早苗被羞辱",
+          "url": "https://www.douyin.com/hot/2759099",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381629739
+          "updated_ms": 1795397787411
         },
         {
           "source": "ifeng",
@@ -681,355 +852,197 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795382405123
+          "updated_ms": 1795398267566
         }
       ]
     },
     {
-      "title": "英国首相伯纳姆计划豁免欧盟学生的1000英镑新税。",
-      "url": "https://www.fastbull.com/cn/fastshort/4361804_212_1",
+      "title": "行贿犯罪嫌疑人刘贤志被遣返回国",
+      "url": "https://www.douyin.com/hot/2759085",
       "platforms": [
-        "cls",
-        "fastbull"
+        "douyin",
+        "thepaper"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795375781000,
+      "event_ms": 1795399291834,
       "top_heat": null,
-      "anchor": "英国首相伯纳姆",
+      "anchor": "行贿犯罪嫌疑人刘贤志被遣返回国",
       "score": 22.0,
       "appearances": [
         {
-          "source": "cls-telegraph",
-          "label": "财联社电报",
-          "platform": "cls",
-          "title": "财联社11月23日电，英国首相伯纳姆拟将欧盟学生豁免于新的1000英镑税。",
-          "url": "https://www.cls.cn/detail/2541066",
+          "source": "douyin",
+          "label": "抖音",
+          "platform": "douyin",
+          "title": "行贿犯罪嫌疑人刘贤志被遣返回国",
+          "url": "https://www.douyin.com/hot/2759085",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795375781000,
-          "updated_ms": 1795381879266
+          "published_ms": null,
+          "updated_ms": 1795397787411
         },
         {
-          "source": "fastbull-express",
-          "label": "法布财经快讯",
-          "platform": "fastbull",
-          "title": "英国首相伯纳姆计划豁免欧盟学生的1000英镑新税。",
-          "url": "https://www.fastbull.com/cn/fastshort/4361804_212_1",
+          "source": "thepaper",
+          "label": "澎湃新闻",
+          "platform": "thepaper",
+          "title": "行贿犯罪嫌疑人刘贤志被遣返回国",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34534738",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795375489498,
-          "updated_ms": 1795381487571
+          "published_ms": null,
+          "updated_ms": 1795399291834
         }
       ]
     },
     {
-      "title": "伊朗军方：两艘油轮在霍尔木兹海峡触雷",
-      "url": "https://sputniknews.cn/20261123/1074300698.html",
+      "title": "三大指数集体低开",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80",
       "platforms": [
-        "cls",
-        "sputnik"
+        "baidu",
+        "cls"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795379023000,
+      "event_ms": 1795398267977,
       "top_heat": null,
-      "anchor": "油轮在霍尔木兹海峡",
+      "anchor": "三大指数集体低开",
       "score": 22.0,
       "appearances": [
         {
-          "source": "cls-telegraph",
-          "label": "财联社电报",
-          "platform": "cls",
-          "title": "财联社11月23日电，伊朗称两艘超大型油轮在霍尔木兹海峡附近触雷。",
-          "url": "https://www.cls.cn/detail/2541061",
+          "source": "baidu",
+          "label": "百度热搜",
+          "platform": "baidu",
+          "title": "三大指数集体低开",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795371935000,
-          "updated_ms": 1795381879266
+          "published_ms": null,
+          "updated_ms": 1795398267977
         },
-        {
-          "source": "sputniknewscn",
-          "label": "卫星通讯社",
-          "platform": "sputnik",
-          "title": "伊朗军方：两艘油轮在霍尔木兹海峡触雷",
-          "url": "https://sputniknews.cn/20261123/1074300698.html",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": 1795379023000,
-          "updated_ms": 1795382404784
-        }
-      ]
-    },
-    {
-      "title": "美国总统特朗普：市场下跌100%是由于民主党所致。",
-      "url": "https://www.fastbull.com/cn/fastshort/4361793_212_1",
-      "platforms": [
-        "cls",
-        "fastbull"
-      ],
-      "source_count": 2,
-      "item_count": 2,
-      "event_ms": 1795368251000,
-      "top_heat": null,
-      "anchor": "",
-      "score": 22.0,
-      "appearances": [
         {
           "source": "cls-telegraph",
           "label": "财联社电报",
           "platform": "cls",
-          "title": "财联社11月23日电，特朗普称，股市下跌“100%”是因为民主党人。",
-          "url": "https://www.cls.cn/detail/2541059",
+          "title": "三大指数集体低开",
+          "url": "https://www.cls.cn/detail/2541183",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795368251000,
-          "updated_ms": 1795381879266
-        },
-        {
-          "source": "fastbull-express",
-          "label": "法布财经快讯",
-          "platform": "fastbull",
-          "title": "美国总统特朗普：市场下跌100%是由于民主党所致。",
-          "url": "https://www.fastbull.com/cn/fastshort/4361793_212_1",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": 1795368155170,
-          "updated_ms": 1795381487571
+          "published_ms": 1795397186000,
+          "updated_ms": 1795398086024
         }
       ]
     },
     {
-      "title": "OpenAI 公开预训练进展呼吁共同安全限制",
-      "url": "https://aihot.news/items/kbsk3p0n2qaxicnh39x32fvlh",
+      "title": "沪指跌破3500点关口，日内跌超1%。",
+      "url": "https://wallstreetcn.com/livenews/3203844",
       "platforms": [
-        "cls",
-        "aihot"
-      ],
-      "source_count": 2,
-      "item_count": 5,
-      "event_ms": 1795381267440,
-      "top_heat": null,
-      "anchor": "openai",
-      "score": 25.0,
-      "appearances": [
-        {
-          "source": "cls-telegraph",
-          "label": "财联社电报",
-          "platform": "cls",
-          "title": "财联社11月23日电，OpenAI表示，到2027年可能会出现预训练进展的重大突破。",
-          "url": "https://www.cls.cn/detail/2541057",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": 1795367772000,
-          "updated_ms": 1795381879266
-        },
-        {
-          "source": "aihot",
-          "label": "AIHOT",
-          "platform": "aihot",
-          "title": "Greg Brockman 解读 OpenAI 基于困惑度的预训练共同安全上限提议",
-          "url": "https://aihot.news/items/uyaqmati59kykshezwugs41bh",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381267440
-        },
-        {
-          "source": "aihot",
-          "label": "AIHOT",
-          "platform": "aihot",
-          "title": "OpenAI 发布 Perplexity and Intelligence，公开预训练困惑度进展数据",
-          "url": "https://aihot.news/items/nrzd48iqj8z40nyvlmqhtlp80",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381267440
-        },
-        {
-          "source": "aihot",
-          "label": "AIHOT",
-          "platform": "aihot",
-          "title": "OpenAI 公开预训练进展呼吁共同安全限制",
-          "url": "https://aihot.news/items/kbsk3p0n2qaxicnh39x32fvlh",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381267440
-        },
-        {
-          "source": "aihot",
-          "label": "AIHOT",
-          "platform": "aihot",
-          "title": "OpenAI 首席科学家 Jakub Pachocki 发文主张以 perplexity 设共同安全门槛并公开预训练进展",
-          "url": "https://aihot.news/items/lwm6f6xtf8667axqr5snwas7u",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381267440
-        }
-      ]
-    },
-    {
-      "title": "调查显示，14位经济学家中有12位预计以色列央行周一将维持利率不变；两位预计将降息25个基点至3.0%。",
-      "url": "https://www.fastbull.com/cn/fastshort/4361772_204_1",
-      "platforms": [
-        "cls",
-        "fastbull"
-      ],
-      "source_count": 2,
-      "item_count": 2,
-      "event_ms": 1795364058723,
-      "top_heat": null,
-      "anchor": "调查显示位经济学家中有位预计以色列央行周一将维持利率不变两位预计将降息个基点至",
-      "score": 22.0,
-      "appearances": [
-        {
-          "source": "cls-telegraph",
-          "label": "财联社电报",
-          "platform": "cls",
-          "title": "财联社11月23日电，调查显示，14位经济学家中有12位预计以色列央行周一将维持利率不变；两位预计将降息25个基点至3.0%。",
-          "url": "https://www.cls.cn/detail/2541049",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": 1795364034000,
-          "updated_ms": 1795381879266
-        },
-        {
-          "source": "fastbull-express",
-          "label": "法布财经快讯",
-          "platform": "fastbull",
-          "title": "调查显示，14位经济学家中有12位预计以色列央行周一将维持利率不变；两位预计将降息25个基点至3.0%。",
-          "url": "https://www.fastbull.com/cn/fastshort/4361772_204_1",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": 1795364058723,
-          "updated_ms": 1795381487571
-        }
-      ]
-    },
-    {
-      "title": "美国总统特朗普：如果Chuck Schumer（舒默）出任参议院多数党领导人，我们将很难合作。",
-      "url": "https://wallstreetcn.com/livenews/3203762",
-      "platforms": [
-        "cls",
+        "baidu",
         "wallstreetcn"
       ],
       "source_count": 3,
       "item_count": 3,
-      "event_ms": 1795355816000,
+      "event_ms": 1795398267977,
       "top_heat": null,
-      "anchor": "如果舒默出任参议院多数党领导人我们将很难合作",
+      "anchor": "沪指跌破点",
       "score": 23.0,
       "appearances": [
         {
-          "source": "cls-telegraph",
-          "label": "财联社电报",
-          "platform": "cls",
-          "title": "财联社11月22日电，美国总统特朗普表示，如果Chuck Schumer（舒默）出任参议院多数党领导人，我们将很难合作。",
-          "url": "https://www.cls.cn/detail/2541035",
+          "source": "baidu",
+          "label": "百度热搜",
+          "platform": "baidu",
+          "title": "沪指跌破3500点",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%AA%E6%8C%87%E8%B7%8C%E7%A0%B43500%E7%82%B9",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795355816000,
-          "updated_ms": 1795381879266
+          "published_ms": null,
+          "updated_ms": 1795398267977
         },
         {
           "source": "wallstreetcn",
           "label": "华尔街见闻",
           "platform": "wallstreetcn",
-          "title": "美国总统特朗普：如果Chuck Schumer（舒默）出任参议院多数党领导人，我们将很难合作。",
-          "url": "https://wallstreetcn.com/livenews/3203762",
+          "title": "沪指跌破3500点关口，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3203844",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795355294000,
-          "updated_ms": 1795382031372
+          "published_ms": 1795397433000,
+          "updated_ms": 1795398315038
         },
         {
           "source": "wallstreetcn-quick",
           "label": "华尔街见闻快讯",
           "platform": "wallstreetcn",
-          "title": "美国总统特朗普：如果Chuck Schumer（舒默）出任参议院多数党领导人，我们将很难合作。",
-          "url": "https://wallstreetcn.com/livenews/3203762",
+          "title": "沪指跌破3500点关口，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3203844",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795355294000,
-          "updated_ms": 1795381887714
+          "published_ms": 1795397433000,
+          "updated_ms": 1795398973890
         }
       ]
     },
     {
-      "title": "评论：中国多家品牌下调金饰克价",
-      "url": "https://www.zaochenbao.com/news/opinion/202611/2285979.html",
+      "title": "赖清德沈伯洋穿日本祭祀服造势引公愤",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%96%E6%B8%85%E5%BE%B7%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A9%BF%E6%97%A5%E6%9C%AC%E7%A5%AD%E7%A5%80%E6%9C%8D%E9%80%A0%E5%8A%BF%E5%BC%95%E5%85%AC%E6%84%A4",
       "platforms": [
-        "cls",
+        "baidu",
+        "ifeng"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795398267977,
+      "top_heat": null,
+      "anchor": "赖清德沈伯洋穿日本祭祀服造势引公愤",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "baidu",
+          "label": "百度热搜",
+          "platform": "baidu",
+          "title": "赖清德沈伯洋穿日本祭祀服造势引公愤",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%96%E6%B8%85%E5%BE%B7%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A9%BF%E6%97%A5%E6%9C%AC%E7%A5%AD%E7%A5%80%E6%9C%8D%E9%80%A0%E5%8A%BF%E5%BC%95%E5%85%AC%E6%84%A4",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398267977
+        },
+        {
+          "source": "ifeng",
+          "label": "凤凰网",
+          "platform": "ifeng",
+          "title": "赖清德、沈伯洋穿日本祭祀服造势引公愤",
+          "url": "https://news.ifeng.com/c/8yGHjZwM71A",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398267566
+        }
+      ]
+    },
+    {
+      "title": "欧盟等拒绝 联合国气候谈判彻底破裂",
+      "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E7%AD%89%E6%8B%92%E7%BB%9D+%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E8%B0%88%E5%88%A4%E5%BD%BB%E5%BA%95%E7%A0%B4%E8%A3%82",
+      "platforms": [
+        "baidu",
         "zaobao"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795382404776,
+      "event_ms": 1795399291704,
       "top_heat": null,
-      "anchor": "下调金饰克价",
+      "anchor": "欧盟等拒绝",
       "score": 22.0,
       "appearances": [
         {
-          "source": "cls-hot",
-          "label": "财联社热榜",
-          "platform": "cls",
-          "title": "【早报】英伟达据悉被SEC调查；多家品牌宣布：下调金饰克价",
-          "url": "https://www.cls.cn/detail/2540862",
+          "source": "baidu",
+          "label": "百度热搜",
+          "platform": "baidu",
+          "title": "欧盟等拒绝 联合国气候谈判彻底破裂",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E7%AD%89%E6%8B%92%E7%BB%9D+%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E8%B0%88%E5%88%A4%E5%BD%BB%E5%BA%95%E7%A0%B4%E8%A3%82",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795380734063
-        },
-        {
-          "source": "zaobao",
-          "label": "联合早报",
-          "platform": "zaobao",
-          "title": "评论：中国多家品牌下调金饰克价",
-          "url": "https://www.zaochenbao.com/news/opinion/202611/2285979.html",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795382404776
-        }
-      ]
-    },
-    {
-      "title": "各国拒绝接受协议草案，联合国气候谈判在激烈争执中破裂",
-      "url": "https://wallstreetcn.com/livenews/3203753",
-      "platforms": [
-        "wallstreetcn",
-        "zaobao"
-      ],
-      "source_count": 3,
-      "item_count": 3,
-      "event_ms": 1795382404776,
-      "top_heat": null,
-      "anchor": "各国拒绝接受协议草案联合国气候谈判在激烈争执中破裂",
-      "score": 23.0,
-      "appearances": [
-        {
-          "source": "wallstreetcn",
-          "label": "华尔街见闻",
-          "platform": "wallstreetcn",
-          "title": "各国拒绝接受协议草案，联合国气候谈判在激烈争执中破裂",
-          "url": "https://wallstreetcn.com/livenews/3203753",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": 1795351526000,
-          "updated_ms": 1795382031372
-        },
-        {
-          "source": "wallstreetcn-quick",
-          "label": "华尔街见闻快讯",
-          "platform": "wallstreetcn",
-          "title": "各国拒绝接受协议草案，联合国气候谈判在激烈争执中破裂",
-          "url": "https://wallstreetcn.com/livenews/3203753",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": 1795351526000,
-          "updated_ms": 1795381887714
+          "updated_ms": 1795398267977
         },
         {
           "source": "zaobao",
@@ -1040,56 +1053,720 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795382404776
+          "updated_ms": 1795399291704
         }
       ]
     },
     {
-      "title": "韩电再曝大规模数据泄露，152万人信息外泄",
-      "url": "https://wallstreetcn.com/livenews/3203749",
+      "title": "上交所、深交所、北交所打出重磅组合拳",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E4%BA%A4%E6%89%80%E3%80%81%E6%B7%B1%E4%BA%A4%E6%89%80%E3%80%81%E5%8C%97%E4%BA%A4%E6%89%80%E6%89%93%E5%87%BA%E9%87%8D%E7%A3%85%E7%BB%84%E5%90%88%E6%8B%B3",
       "platforms": [
-        "wallstreetcn",
+        "baidu",
+        "tencent"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795399291735,
+      "top_heat": null,
+      "anchor": "上交所深交所北交所打出重磅组合拳",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "baidu",
+          "label": "百度热搜",
+          "platform": "baidu",
+          "title": "上交所、深交所、北交所打出重磅组合拳",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E4%BA%A4%E6%89%80%E3%80%81%E6%B7%B1%E4%BA%A4%E6%89%80%E3%80%81%E5%8C%97%E4%BA%A4%E6%89%80%E6%89%93%E5%87%BA%E9%87%8D%E7%A3%85%E7%BB%84%E5%90%88%E6%8B%B3",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398267977
+        },
+        {
+          "source": "tencent-hot",
+          "label": "腾讯热榜",
+          "platform": "tencent",
+          "title": "上交所、深交所、北交所，打出重磅“组合拳”",
+          "url": "https://view.inews.qq.com/a/20261122A0AXFB00",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795399291735
+        }
+      ]
+    },
+    {
+      "title": "凡人边界之战PV",
+      "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0",
+      "platforms": [
+        "bilibili",
         "ithome"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795399292105,
+      "top_heat": null,
+      "anchor": "边界之战",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "bilibili-hot-search",
+          "label": "B站热搜",
+          "platform": "bilibili",
+          "title": "凡人边界之战PV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398157246
+        },
+        {
+          "source": "ithome",
+          "label": "IT之家",
+          "platform": "ithome",
+          "title": "人界篇最大战役：《凡人修仙传》“边界之战”PV 公开，慕兰之战年番进入最高潮章节",
+          "url": "https://www.ithome.com/1/030/749.htm",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795399292105
+        }
+      ]
+    },
+    {
+      "title": "Lean社区确认黎曼猜想通过验证",
+      "url": "https://search.bilibili.com/all?keyword=Lean%E7%A4%BE%E5%8C%BA%E7%A1%AE%E8%AE%A4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E9%80%9A%E8%BF%87%E9%AA%8C%E8%AF%81",
+      "platforms": [
+        "bilibili",
+        "wallstreetcn"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795399291419,
+      "top_heat": null,
+      "anchor": "黎曼猜想",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "bilibili-hot-search",
+          "label": "B站热搜",
+          "platform": "bilibili",
+          "title": "Lean社区确认黎曼猜想通过验证",
+          "url": "https://search.bilibili.com/all?keyword=Lean%E7%A4%BE%E5%8C%BA%E7%A1%AE%E8%AE%A4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E9%80%9A%E8%BF%87%E9%AA%8C%E8%AF%81",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398157246
+        },
+        {
+          "source": "wallstreetcn-hot",
+          "label": "华尔街见闻热榜",
+          "platform": "wallstreetcn",
+          "title": "Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的",
+          "url": "https://wallstreetcn.com/articles/3786445",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795399291419
+        }
+      ]
+    },
+    {
+      "title": "灵笼落子无悔PV",
+      "url": "https://search.bilibili.com/all?keyword=%E7%81%B5%E7%AC%BC",
+      "platforms": [
+        "bilibili",
+        "ithome"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795399292105,
+      "top_heat": null,
+      "anchor": "灵笼落子无悔",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "bilibili-hot-search",
+          "label": "B站热搜",
+          "platform": "bilibili",
+          "title": "灵笼落子无悔PV",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%B5%E7%AC%BC",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795398157246
+        },
+        {
+          "source": "ithome",
+          "label": "IT之家",
+          "platform": "ithome",
+          "title": "《灵笼：落子无悔》前瞻 PV 首曝，2027 年下半年上线",
+          "url": "https://www.ithome.com/1/030/752.htm",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795399292105
+        }
+      ]
+    },
+    {
+      "title": "菲律宾股市指数上涨1.1%，至5364.65点。",
+      "url": "https://www.fastbull.com/cn/fastshort/4361933_204_1",
+      "platforms": [
+        "cls",
+        "fastbull"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795397787042,
+      "top_heat": null,
+      "anchor": "菲律宾股市指数上涨至点",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "财联社11月23日电，菲律宾股市指数上涨1.1%，至5364.65点。",
+          "url": "https://www.cls.cn/detail/2541204",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795397754000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "菲律宾股市指数上涨1.1%，至5364.65点。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361933_204_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795397787042,
+          "updated_ms": 1795398268108
+        }
+      ]
+    },
+    {
+      "title": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
+      "url": "https://wallstreetcn.com/livenews/3203842",
+      "platforms": [
+        "cls",
+        "wallstreetcn"
       ],
       "source_count": 3,
       "item_count": 3,
-      "event_ms": 1795380730824,
+      "event_ms": 1795397384000,
       "top_heat": null,
-      "anchor": "韩电再曝大规模数据泄露万人信息外泄",
+      "anchor": "上海黄金交易所",
+      "score": 23.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "上海黄金交易所：贵金属价格波动显著加剧 做好风险控制工作",
+          "url": "https://www.cls.cn/detail/2541187",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795397382000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
+          "url": "https://wallstreetcn.com/livenews/3203842",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795397384000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
+          "url": "https://wallstreetcn.com/livenews/3203842",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795397384000,
+          "updated_ms": 1795398973890
+        }
+      ]
+    },
+    {
+      "title": "香港恒生指数低开1.08%，报22168.19点；恒生科技指数跌1.92%。零跑汽车跌超11%，小鹏汽车跌超10%，地平线机器人跌超8%，MINIMAX、智谱跌超6%。",
+      "url": "https://wallstreetcn.com/livenews/3203837",
+      "platforms": [
+        "cls",
+        "wallstreetcn"
+      ],
+      "source_count": 3,
+      "item_count": 3,
+      "event_ms": 1795396889000,
+      "top_heat": null,
+      "anchor": "恒生科技指数跌",
+      "score": 23.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "香港恒生指数开盘跌1.08% 恒生科技指数跌1.92%",
+          "url": "https://www.cls.cn/detail/2541180",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396860000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "香港恒生指数低开1.08%，报22168.19点；恒生科技指数跌1.92%。零跑汽车跌超11%，小鹏汽车跌超10%，地平线机器人跌超8%，MINIMAX、智谱跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3203837",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396889000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "香港恒生指数低开1.08%，报22168.19点；恒生科技指数跌1.92%。零跑汽车跌超11%，小鹏汽车跌超10%，地平线机器人跌超8%，MINIMAX、智谱跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3203837",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396889000,
+          "updated_ms": 1795398973890
+        }
+      ]
+    },
+    {
+      "title": "两市融资余额减少417.23亿元",
+      "url": "https://wallstreetcn.com/livenews/3203822",
+      "platforms": [
+        "cls",
+        "wallstreetcn"
+      ],
+      "source_count": 3,
+      "item_count": 3,
+      "event_ms": 1795396567000,
+      "top_heat": null,
+      "anchor": "两市融资",
+      "score": 23.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "ETF两市融资融券余额1203.12亿元 减少6.10亿元",
+          "url": "https://www.cls.cn/detail/2541155",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396567000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "两市融资余额减少417.23亿元",
+          "url": "https://wallstreetcn.com/livenews/3203822",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795394850000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "两市融资余额减少417.23亿元",
+          "url": "https://wallstreetcn.com/livenews/3203822",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795394850000,
+          "updated_ms": 1795398973890
+        }
+      ]
+    },
+    {
+      "title": "人民币兑美元中间价报6.7120元。",
+      "url": "https://www.fastbull.com/cn/fastshort/4361906_212_1",
+      "platforms": [
+        "cls",
+        "fastbull"
+      ],
+      "source_count": 2,
+      "item_count": 3,
+      "event_ms": 1795396704571,
+      "top_heat": null,
+      "anchor": "人民币兑美元中间价",
+      "score": 23.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "财联社11月23日电，人民币兑美元中间价报6.7120，上调11点。",
+          "url": "https://www.cls.cn/detail/2541175",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396547000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "2026年11月23日人民币兑美元中间价较上日调升11.00点至6.7120。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361909_1_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396704571,
+          "updated_ms": 1795398268108
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "人民币兑美元中间价报6.7120元。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361906_212_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396537238,
+          "updated_ms": 1795398268108
+        }
+      ]
+    },
+    {
+      "title": "现货黄金突破3620美元/盎司，日内涨2.45%。",
+      "url": "https://www.fastbull.com/cn/fastshort/4361907_212_1",
+      "platforms": [
+        "cls",
+        "fastbull"
+      ],
+      "source_count": 2,
+      "item_count": 4,
+      "event_ms": 1795397299263,
+      "top_heat": null,
+      "anchor": "现货黄金",
+      "score": 24.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "财联社11月23日电，现货黄金向上触及3600美元，日内上涨1.96%。",
+          "url": "https://www.cls.cn/detail/2541172",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396361000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "A股黄金股逆市高开，赤峰黄金涨5%，晓程科技、盛达资源、山金国际、中金黄金、湖南黄金、四川黄金等个股跟涨；此前，现货黄金突破3600美元/盎司，日内涨1.82%。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361920_1_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795397299263,
+          "updated_ms": 1795398268108
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "现货黄金突破3620美元/盎司，日内涨2.45%。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361907_212_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396542136,
+          "updated_ms": 1795398268108
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "纽约期金突破3610美元/盎司，日内涨2.74%。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361902_212_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396489920,
+          "updated_ms": 1795398268108
+        }
+      ]
+    },
+    {
+      "title": "燃料油连续主力合约日内跌3%，现报3683.00元。",
+      "url": "https://www.fastbull.com/cn/fastshort/4361876_212_1",
+      "platforms": [
+        "cls",
+        "fastbull"
+      ],
+      "source_count": 2,
+      "item_count": 3,
+      "event_ms": 1795396216000,
+      "top_heat": null,
+      "anchor": "主力合约日内",
+      "score": 23.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "财联社11月23日电，苹果期货主力合约日内大涨5%，现报5954元/吨。",
+          "url": "https://www.cls.cn/detail/2541170",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396216000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "液化石油气连续主力合约日内跌7%，现报5168.00元。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361879_212_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395628856,
+          "updated_ms": 1795398268108
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "燃料油连续主力合约日内跌3%，现报3683.00元。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361876_212_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395611630,
+          "updated_ms": 1795398268108
+        }
+      ]
+    },
+    {
+      "title": "韩国首尔综指跌3%。三星电子、SK海力士跌3%。",
+      "url": "https://wallstreetcn.com/livenews/3203816",
+      "platforms": [
+        "cls",
+        "wallstreetcn"
+      ],
+      "source_count": 3,
+      "item_count": 5,
+      "event_ms": 1795396079000,
+      "top_heat": null,
+      "anchor": "美股科技股夜盘普遍",
+      "score": 25.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "美股科技股夜盘普遍反弹 SK海力士涨逾7%英伟达涨逾5%",
+          "url": "https://www.cls.cn/detail/2541168",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396020000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "美股科技股夜盘普遍走高，SK海力士涨逾7%，英伟达、英特尔、闪迪、迈威尔科技涨逾5%，美光科技、博通、谷歌、特斯拉涨逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3203830",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396079000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "韩国首尔综指跌3%。三星电子、SK海力士跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3203816",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795392108000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "美股科技股夜盘普遍走高，SK海力士涨逾7%，英伟达、英特尔、闪迪、迈威尔科技涨逾5%，美光科技、博通、谷歌、特斯拉涨逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3203830",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795396079000,
+          "updated_ms": 1795398973890
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "韩国首尔综指跌3%。三星电子、SK海力士跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3203816",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795392108000,
+          "updated_ms": 1795398973890
+        }
+      ]
+    },
+    {
+      "title": "台湾证交所加权股价指数低开0.4%，报35,899.48点。",
+      "url": "https://wallstreetcn.com/livenews/3203827",
+      "platforms": [
+        "cls",
+        "wallstreetcn"
+      ],
+      "source_count": 3,
+      "item_count": 3,
+      "event_ms": 1795395685000,
+      "top_heat": null,
+      "anchor": "交所加权股价指数低开报点",
+      "score": 23.0,
+      "appearances": [
+        {
+          "source": "cls-telegraph",
+          "label": "财联社电报",
+          "platform": "cls",
+          "title": "财联社11月23日电，台交所加权股价指数低开0.4%报35,899.48点。",
+          "url": "https://www.cls.cn/detail/2541160",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395660000,
+          "updated_ms": 1795398086024
+        },
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "台湾证交所加权股价指数低开0.4%，报35,899.48点。",
+          "url": "https://wallstreetcn.com/livenews/3203827",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395685000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "台湾证交所加权股价指数低开0.4%，报35,899.48点。",
+          "url": "https://wallstreetcn.com/livenews/3203827",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795395685000,
+          "updated_ms": 1795398973890
+        }
+      ]
+    },
+    {
+      "title": "中国外汇交易中心（CFETS）：11月20日人民币汇率指数按周涨0.55至104.98。",
+      "url": "https://wallstreetcn.com/livenews/3203821",
+      "platforms": [
+        "wallstreetcn",
+        "fastbull"
+      ],
+      "source_count": 3,
+      "item_count": 3,
+      "event_ms": 1795394008931,
+      "top_heat": null,
+      "anchor": "中国外汇交易中心人民币汇率指数按周涨至",
       "score": 23.0,
       "appearances": [
         {
           "source": "wallstreetcn",
           "label": "华尔街见闻",
           "platform": "wallstreetcn",
-          "title": "韩电再曝大规模数据泄露，152万人信息外泄",
-          "url": "https://wallstreetcn.com/livenews/3203749",
+          "title": "中国外汇交易中心（CFETS）：11月20日人民币汇率指数按周涨0.55至104.98。",
+          "url": "https://wallstreetcn.com/livenews/3203821",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795349282000,
-          "updated_ms": 1795382031372
+          "published_ms": 1795393993000,
+          "updated_ms": 1795398315038
         },
         {
           "source": "wallstreetcn-quick",
           "label": "华尔街见闻快讯",
           "platform": "wallstreetcn",
-          "title": "韩电再曝大规模数据泄露，152万人信息外泄",
-          "url": "https://wallstreetcn.com/livenews/3203749",
+          "title": "中国外汇交易中心（CFETS）：11月20日人民币汇率指数按周涨0.55至104.98。",
+          "url": "https://wallstreetcn.com/livenews/3203821",
           "heat": null,
           "heat_text": "",
-          "published_ms": 1795349282000,
-          "updated_ms": 1795381887714
+          "published_ms": 1795393993000,
+          "updated_ms": 1795398973890
         },
         {
-          "source": "ithome",
-          "label": "IT之家",
-          "platform": "ithome",
-          "title": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄",
-          "url": "https://www.ithome.com/1/030/706.htm",
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "中国外汇交易中心（CFETS）：11月20日人民币汇率指数按周涨0.55至104.98。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361869_212_1",
           "heat": null,
           "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795380730824
+          "published_ms": 1795394008931,
+          "updated_ms": 1795398268108
+        }
+      ]
+    },
+    {
+      "title": "韩国11月1日至20日半导体出口同比增长294.4%。",
+      "url": "https://wallstreetcn.com/livenews/3203817",
+      "platforms": [
+        "wallstreetcn",
+        "fastbull"
+      ],
+      "source_count": 3,
+      "item_count": 3,
+      "event_ms": 1795392175000,
+      "top_heat": null,
+      "anchor": "韩国至日半导体出口同比增长",
+      "score": 23.0,
+      "appearances": [
+        {
+          "source": "wallstreetcn",
+          "label": "华尔街见闻",
+          "platform": "wallstreetcn",
+          "title": "韩国11月1日至20日半导体出口同比增长294.4%。",
+          "url": "https://wallstreetcn.com/livenews/3203817",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795392175000,
+          "updated_ms": 1795398315038
+        },
+        {
+          "source": "wallstreetcn-quick",
+          "label": "华尔街见闻快讯",
+          "platform": "wallstreetcn",
+          "title": "韩国11月1日至20日半导体出口同比增长294.4%。",
+          "url": "https://wallstreetcn.com/livenews/3203817",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795392175000,
+          "updated_ms": 1795398973890
+        },
+        {
+          "source": "fastbull-express",
+          "label": "法布财经快讯",
+          "platform": "fastbull",
+          "title": "韩国11月前20天出口同比增长101.5%。",
+          "url": "https://www.fastbull.com/cn/fastshort/4361862_212_1",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": 1795392046261,
+          "updated_ms": 1795398268108
         }
       ]
     },
@@ -1102,7 +1779,7 @@
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795382404753,
+      "event_ms": 1795399291735,
       "top_heat": null,
       "anchor": "韩国救市准备启动股市稳定基金或为来首次",
       "score": 22.0,
@@ -1116,7 +1793,7 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795382404444
+          "updated_ms": 1795399291419
         },
         {
           "source": "tencent-hot",
@@ -1127,7 +1804,7 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795382404753
+          "updated_ms": 1795399291735
         }
       ]
     },
@@ -1140,7 +1817,7 @@
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795382404753,
+      "event_ms": 1795399291735,
       "top_heat": null,
       "anchor": "中国市场准备工作推进中",
       "score": 22.0,
@@ -1154,7 +1831,7 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795382404444
+          "updated_ms": 1795399291419
         },
         {
           "source": "tencent-hot",
@@ -1165,7 +1842,45 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795382404753
+          "updated_ms": 1795399291735
+        }
+      ]
+    },
+    {
+      "title": "福建省人大常委会：许可对省十四届人大代表林科闯采取刑事强制措施",
+      "url": "https://view.inews.qq.com/a/20261122A0BUES00",
+      "platforms": [
+        "tencent",
+        "thepaper"
+      ],
+      "source_count": 2,
+      "item_count": 2,
+      "event_ms": 1795399291834,
+      "top_heat": null,
+      "anchor": "福建省人大常委会许可对",
+      "score": 22.0,
+      "appearances": [
+        {
+          "source": "tencent-hot",
+          "label": "腾讯热榜",
+          "platform": "tencent",
+          "title": "福建省人大常委会：许可对省十四届人大代表林科闯采取刑事强制措施",
+          "url": "https://view.inews.qq.com/a/20261122A0BUES00",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795399291735
+        },
+        {
+          "source": "thepaper",
+          "label": "澎湃新闻",
+          "platform": "thepaper",
+          "title": "福建省人大常委会许可对林科闯采取刑事强制措施：涉职务侵占和挪用资金",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34535635",
+          "heat": null,
+          "heat_text": "",
+          "published_ms": null,
+          "updated_ms": 1795399291834
         }
       ]
     },
@@ -1178,7 +1893,7 @@
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795382405123,
+      "event_ms": 1795399291735,
       "top_heat": null,
       "anchor": "年的难题终于拿到大结果",
       "score": 22.0,
@@ -1192,7 +1907,7 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795382404753
+          "updated_ms": 1795399291735
         },
         {
           "source": "ifeng",
@@ -1203,212 +1918,109 @@
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795382405123
+          "updated_ms": 1795398267566
         }
       ]
     },
     {
-      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
-      "url": "https://www.ithome.com/1/030/717.htm",
+      "title": "贝森特：美国正就英伟达对华出售晶片寻求解释",
+      "url": "https://www.zaochenbao.com/news/politics/202611/2386020.html",
       "platforms": [
-        "ithome",
-        "aihot"
+        "zaobao",
+        "sputnik"
       ],
       "source_count": 2,
       "item_count": 2,
-      "event_ms": 1795381267440,
+      "event_ms": 1795399291704,
       "top_heat": null,
-      "anchor": "公布自研架构能效",
+      "anchor": "贝森特美国正",
       "score": 22.0,
       "appearances": [
         {
-          "source": "ithome",
-          "label": "IT之家",
-          "platform": "ithome",
-          "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
-          "url": "https://www.ithome.com/1/030/717.htm",
+          "source": "zaobao",
+          "label": "联合早报",
+          "platform": "zaobao",
+          "title": "贝森特：美国正就英伟达对华出售晶片寻求解释",
+          "url": "https://www.zaochenbao.com/news/politics/202611/2386020.html",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795380730824
+          "updated_ms": 1795399291704
         },
         {
-          "source": "aihot",
-          "label": "AIHOT",
-          "platform": "aihot",
-          "title": "Architect Labs 公布 AI 自研 CPU 架构 Frostbite，能效为传统处理器 4.59 倍",
-          "url": "https://aihot.news/items/nn8oa2ytrpbu7wxsqm5mckjbi",
+          "source": "sputniknewscn",
+          "label": "卫星通讯社",
+          "platform": "sputnik",
+          "title": "贝森特：美国正寻求英伟达就对华出售芯片寻求解释",
+          "url": "https://sputniknews.cn/20261123/1074303536.html",
           "heat": null,
           "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381267440
+          "published_ms": 1795393052000,
+          "updated_ms": 1795398136656
         }
       ]
     },
     {
-      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
-      "url": "https://www.ithome.com/1/030/715.htm",
+      "title": "Suleyman 称赞 OpenAI 预训练透明度倡议",
+      "url": "https://aihot.news/items/ugbmwlfgci2rzkqvdevqn8a2b",
       "platforms": [
         "ithome",
         "aihot"
       ],
       "source_count": 2,
-      "item_count": 2,
-      "event_ms": 1795381267440,
+      "item_count": 4,
+      "event_ms": 1795399292105,
       "top_heat": null,
-      "anchor": "合同全部所需资金",
-      "score": 22.0,
+      "anchor": "微软负责人苏莱曼支持",
+      "score": 24.0,
       "appearances": [
         {
           "source": "ithome",
           "label": "IT之家",
           "platform": "ithome",
-          "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
-          "url": "https://www.ithome.com/1/030/715.htm",
+          "title": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议",
+          "url": "https://www.ithome.com/1/030/745.htm",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795380730824
+          "updated_ms": 1795399292105
         },
         {
           "source": "aihot",
           "label": "AIHOT",
           "platform": "aihot",
-          "title": "Oracle 称已筹集履行 OpenAI 合同全部所需资金",
-          "url": "https://aihot.news/items/fk7bno37d63yaq818lenmlaxo",
+          "title": "微软 AI 负责人苏莱曼支持 OpenAI 透明度倡议，公布 MAI-2 Base 评测结果",
+          "url": "https://aihot.news/items/ahiv28657urifplozo1csu3lg",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381267440
-        }
-      ]
-    },
-    {
-      "title": "MiniMax 用内部模型自动化破解多个密码学前沿方案并刷新挑战赛纪录",
-      "url": "https://aihot.news/items/cy8ge5deafoo54aro3n328dy6",
-      "platforms": [
-        "ithome",
-        "aihot"
-      ],
-      "source_count": 2,
-      "item_count": 3,
-      "event_ms": 1795381267440,
-      "top_heat": null,
-      "anchor": "破解多个密码学前沿方案",
-      "score": 23.0,
-      "appearances": [
-        {
-          "source": "ithome",
-          "label": "IT之家",
-          "platform": "ithome",
-          "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
-          "url": "https://www.ithome.com/1/030/711.htm",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795380730824
+          "updated_ms": 1795398045622
         },
         {
           "source": "aihot",
           "label": "AIHOT",
           "platform": "aihot",
-          "title": "MiniMax 用内部模型自动化破解多个密码学前沿方案并刷新挑战赛纪录",
-          "url": "https://aihot.news/items/cy8ge5deafoo54aro3n328dy6",
+          "title": "Mustafa Suleyman 支持 OpenAI 透明度倡议，公布 MAI-2 Base 困惑度数据",
+          "url": "https://aihot.news/items/l2sbkxmzbg1zq5xe2cazob89m",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381267440
+          "updated_ms": 1795398045622
         },
         {
           "source": "aihot",
           "label": "AIHOT",
           "platform": "aihot",
-          "title": "MiniMax 内部模型攻破多个 NIST 候选算法与顶会密码方案，刷新破解纪录",
-          "url": "https://aihot.news/items/v0vzo1yr2zojxv1n3hkaxvrfs",
+          "title": "Suleyman 称赞 OpenAI 预训练透明度倡议",
+          "url": "https://aihot.news/items/ugbmwlfgci2rzkqvdevqn8a2b",
           "heat": null,
           "heat_text": "",
           "published_ms": null,
-          "updated_ms": 1795381267440
-        }
-      ]
-    },
-    {
-      "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
-      "url": "https://www.ithome.com/1/030/699.htm",
-      "platforms": [
-        "ithome",
-        "aihot"
-      ],
-      "source_count": 2,
-      "item_count": 2,
-      "event_ms": 1795381267440,
-      "top_heat": null,
-      "anchor": "开发者将微型模型塞进软盘让老电脑也能用上",
-      "score": 22.0,
-      "appearances": [
-        {
-          "source": "ithome",
-          "label": "IT之家",
-          "platform": "ithome",
-          "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
-          "url": "https://www.ithome.com/1/030/699.htm",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795380730824
-        },
-        {
-          "source": "aihot",
-          "label": "AIHOT",
-          "platform": "aihot",
-          "title": "开发者将微型 Transformer 模型 Tiny 2.1 塞进软盘，让 486 老电脑也能用上 AI",
-          "url": "https://aihot.news/items/h5ullue72g8a4b2jiqdqpxs02",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381267440
-        }
-      ]
-    },
-    {
-      "title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
-      "url": "https://www.ithome.com/1/030/696.htm",
-      "platforms": [
-        "ithome",
-        "aihot"
-      ],
-      "source_count": 2,
-      "item_count": 2,
-      "event_ms": 1795381267440,
-      "top_heat": null,
-      "anchor": "满是生成痕迹",
-      "score": 22.0,
-      "appearances": [
-        {
-          "source": "ithome",
-          "label": "IT之家",
-          "platform": "ithome",
-          "title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
-          "url": "https://www.ithome.com/1/030/696.htm",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795380730824
-        },
-        {
-          "source": "aihot",
-          "label": "AIHOT",
-          "platform": "aihot",
-          "title": "纽约音乐厅 Domino 官网宣传“Human Made”却被发现满是 AI 生成痕迹",
-          "url": "https://aihot.news/items/h69imiy56vjbcbywb7layrw6k",
-          "heat": null,
-          "heat_text": "",
-          "published_ms": null,
-          "updated_ms": 1795381267440
+          "updated_ms": 1795398045622
         }
       ]
     }
   ],
-  "message": "🔥 热点事件\n11-23 04:16｜胡塞武装：打击沙特西部炼油厂｜https://sputniknews.cn/20261123/1074300600.html｜3个平台（cls/sputnik/fastbull）\n11-23 05:09｜主播糟蹋千斤苹果仅赔6000元｜https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C%E4%BB%85%E8%B5%946000%E5%85%83%23&t=31&band_rank=11&Refer=top｜3个平台（toutiao/weibo/bilibili）\n11-23 04:38｜媒体：特朗普表示准备在新年后恢复对伊朗的打击｜https://sputniknews.cn/20261123/1074300792.html｜3个平台（cls/sputnik/fastbull）",
+  "message": "🔥 热点事件\n11-23 09:24｜中国央行进行4,995亿元人民币隔夜逆回购操作，操作利率 1.25%。  中国央行公开市场今日净投放1,200亿元人民币。｜https://wallstreetcn.com/livenews/3203838｜3个平台（cls/wallstreetcn/fastbull）\n11-23 09:17｜韩国青瓦台：企划财政部长官将于今日记者会上就股市平准基金作出说明。｜https://wallstreetcn.com/livenews/3203835｜3个平台（cls/wallstreetcn/fastbull）\n11-23 09:01｜商品期货开盘，液化气主力合约跌超6%，沪银跌超4%，燃料油、20号胶跌超3%。铝合金涨超1%。｜https://wallstreetcn.com/livenews/3203826｜3个平台（cls/wallstreetcn/fastbull）\n11-23 10:01｜中国第二艘国产大型邮轮首航｜https://www.zaochenbao.com/news/china/202611/2286002.html｜3个平台（cls/zaobao/ithome）\n11-23 09:44｜Claude黎曼猜想证明被指抄袭｜https://search.bilibili.com/all?keyword=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD｜3个平台（bilibili/cls/aihot）",
   "telegram_sent": true
 }
